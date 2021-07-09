@@ -1,4 +1,7 @@
 # travelComputing
+
+Run: python main.py
+
 Available requests:
 
 Request all trip status:
